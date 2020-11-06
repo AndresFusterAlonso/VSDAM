@@ -6,9 +6,8 @@ namespace proyecto_oscar
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            int cambios = 2;
             Console.WriteLine("soy oscar");
+            int cambios = 2;
         }
     }
 }
