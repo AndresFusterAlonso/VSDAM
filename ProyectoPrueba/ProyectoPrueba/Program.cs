@@ -6,7 +6,7 @@ namespace ProyectoPrueba
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("hola soy oscar");
+            Console.WriteLine("hola soy Andrés");
         }
-    }
+    }   
 }
