@@ -1,12 +1,12 @@
 ﻿using System;
 
-namespace ProyectoPrueba
+namespace CambioManu
 {
     class Program
     {
         static void Main(string[] args)
         {
-            
+            Console.WriteLine("Manu saluda");
         }
     }
 }
